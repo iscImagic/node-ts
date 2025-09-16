@@ -1,0 +1,102 @@
+{
+  "parnerName" : "Amigo Paisano",
+  "colors": [
+    {
+      "name": "primaryColor",
+      "value": "#201751"
+    },
+    {
+      "name": "primaryColorDark",
+      "value": "#154580"
+    },
+    {
+      "name": "primaryColorLight",
+      "value": "#00A0DF"
+    },
+    {
+      "name": "primaryColorFaded",
+      "value": "#F2FEFF"
+    },
+    {
+      "name": "primaryColorGradient",
+      "value": "linear-gradient(136.02deg, #154580,#201751)"
+    },
+    {
+      "name": "primaryButtonGradient",
+      "value": "linear-gradient(136.02deg, #154580,#201751)"
+    },
+    {
+      "name": "topMenu",
+      "value": "#201751"
+    },
+    {
+      "name": "topMenuText",
+      "value": "#ffffff"
+    },
+    {
+      "name": "helpButton",
+      "value": "rgba(0, 0, 0, 0.15)"
+    },
+    {
+      "name": "helpButtonHover",
+      "value": "rgba(0, 0, 0, 0.25)"
+    },
+    {
+      "name": "helpButtonText",
+      "value": "#ffffff"
+    },
+    {
+      "name": "borderReceivingOption",
+      "value": "#201751"
+    },
+    {
+      "name": "iconsReceivingOption",
+      "value": "#201751"
+    },
+    {
+      "name": "radioBorder",
+      "value": "#201751"
+    },
+    {
+      "name": "goBackbutton",
+      "value": "#00A0DF"
+    },
+    {
+      "name": "buttonLink",
+      "value": "#201751"
+    },
+    {
+      "name": "iconsPrimary",
+      "value": "#201751"
+    },
+    {
+      "name": "opacitylightbakcground",
+      "value": "rgba(0, 160, 223, 0.15)"
+    },
+    {
+      "name": "wl-step-active",
+      "value": "#201751"
+    },
+    {
+      "name": "wl-step-done",
+      "value": "#201751"
+    },
+    {
+      "name": "primaryBackgroundColorLight",
+      "value": "#E6F3EB"
+    },
+    {
+      "name": "primaryFilterColor",
+      "value": "brightness(0) saturate(100%) invert(44%) sepia(47%) saturate(3421%) hue-rotate(169deg) brightness(99%) contrast(101%)"
+    },
+    {
+      "name": "disabled-button",
+      "value": "#C8CBD0"
+    },
+    {
+      "name": "largebutton-text",
+      "value": "#ffffff"
+    }
+  ],
+  "logo": "BrandAmigoPaisano/logo.png"
+}

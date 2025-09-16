@@ -1,0 +1,102 @@
+{
+  "parnerName": "La Nacional",
+  "colors": [
+    {
+      "name": "primaryColor",
+      "value": "#FFD100"
+    },
+    {
+      "name": "primaryColorDark",
+      "value": "#38404A"
+    },
+    {
+      "name": "primaryColorLight",
+      "value": "#F5F0DC"
+    },
+    {
+      "name": "primaryColorFaded",
+      "value": "#F5F0DC"
+    },
+    {
+      "name": "primaryColorGradient",
+      "value": "#FFD100"
+    },
+    {
+      "name": "primaryButtonGradient",
+      "value": "#FFD100"
+    },
+    {
+      "name": "topMenu",
+      "value": "#FCE881"
+    },
+    {
+      "name": "topMenuText",
+      "value": "#000000"
+    },
+    {
+      "name": "helpButton",
+      "value": "transparent"
+    },
+    {
+      "name": "helpButtonHover",
+      "value": "transparent"
+    },
+    {
+      "name": "helpButtonText",
+      "value": "#000000"
+    },
+    {
+      "name": "borderReceivingOption",
+      "value": "#000000"
+    },
+    {
+      "name": "iconsReceivingOption",
+      "value": "#38404A"
+    },
+    {
+      "name": "radioBorder",
+      "value": "#626B76"
+    },
+    {
+      "name": "goBackbutton",
+      "value": "#000000"
+    },
+    {
+      "name": "buttonLink",
+      "value": "#000000"
+    },
+    {
+      "name": "iconsPrimary",
+      "value": "#000000"
+    },
+    {
+      "name": "opacitylightbakcground",
+      "value": "rgba(245, 240, 220, 0.4)"
+    },
+    {
+      "name": "wl-step-active",
+      "value": "#000000"
+    },
+    {
+      "name": "wl-step-done",
+      "value": "#000000"
+    },
+    {
+      "name": "primaryBackgroundColorLight",
+      "value": "#E6F3EB"
+    },
+    {
+      "name": "primaryFilterColor",
+      "value": "brightness(0) saturate(100%) invert(19%) sepia(97%) saturate(4795%) hue-rotate(150deg) brightness(98%) contrast(101%)"
+    },
+    {
+      "name": "disabled-button",
+      "value": "#C8CBD0"
+    },
+    {
+      "name": "largebutton-text",
+      "value": "#38404A"
+    }
+  ],
+   "logo": "BrandLaNacional/logo.png"
+}

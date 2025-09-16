@@ -1,0 +1,102 @@
+{
+  "partnerName": "Intermex",
+  "colors": [
+    {
+      "name": "primaryColor",
+      "value": "#008533"
+    },
+    {
+      "name": "primaryColorDark",
+      "value": "#036227"
+    },
+    {
+      "name": "primaryColorLight",
+      "value": "#4BA84A"
+    },
+    {
+      "name": "primaryColorFaded",
+      "value": "#F6FCF5"
+    },
+    {
+      "name": "primaryColorGradient",
+      "value": "linear-gradient(136.02deg, rgba(75, 168, 74, 1) 13.53%, rgba(0, 133, 51, 1) 78.28%)"
+    },
+    {
+      "name": "primaryButtonGradient",
+      "value": "#008533"
+    },
+    {
+      "name": "topMenu",
+      "value": "#008533"
+    },
+    {
+      "name": "topMenuText",
+      "value": "#ffffff"
+    },
+    {
+      "name": "helpButton",
+      "value": "rgba(0, 0, 0, 0.15)"
+    },
+    {
+      "name": "helpButtonHover",
+      "value": "rgba(0, 0, 0, 0.25)"
+    },
+    {
+      "name": "helpButtonText",
+      "value": "#ffffff"
+    },
+    {
+      "name": "borderReceivingOption",
+      "value": "#4BA84A"
+    },
+    {
+      "name": "iconsReceivingOption",
+      "value": "#4BA84A"
+    },
+    {
+      "name": "radioBorder",
+      "value": "#4BA84A"
+    },
+    {
+      "name": "goBackbutton",
+      "value": "#008533"
+    },
+    {
+      "name": "buttonLink",
+      "value": "#008533"
+    },
+    {
+      "name": "iconsPrimary",
+      "value": "#008533"
+    },
+    {
+      "name": "opacitylightbakcground",
+      "value": "rgba(75, 168, 74, 0.15)"
+    },
+    {
+      "name": "wl-step-active",
+      "value": "#4BA84A"
+    },
+    {
+      "name": "wl-step-done",
+      "value": "#008533"
+    },
+    {
+      "name": "primaryBackgroundColorLight",
+      "value": "#E6F3EB"
+    },
+    {
+      "name": "primaryFilterColor",
+      "value": "brightness(0) saturate(100%) invert(19%) sepia(97%) saturate(4795%) hue-rotate(150deg) brightness(98%) contrast(101%)"
+    },
+    {
+      "name": "disabled-button",
+      "value": "#C8CBD0"
+    },
+    {
+      "name": "largebutton-text",
+      "value": "#ffffff"
+    }
+  ],
+  "logo": "BrandIntermex/logo.svg"
+}
